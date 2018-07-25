@@ -69,7 +69,6 @@ def break_dance
     break 
   end 
 end 
-end 
 
   
   # Write a solution that uses the same code as how_many_steps?, but breaks the
